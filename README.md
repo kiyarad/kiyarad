@@ -62,6 +62,9 @@ or CTO.
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kiyarad vahedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiyarad vahedi" height="30" width="40" /></a>
+<a href="mailto:kiyaradvahedi@gmail.com" target="_blank"><img align="center" src="https://github.com/kiyarad/kiyarad/assets/106317859/0ba4b5b2-d014-41e8-b195-53bc2d9a6ba9" alt="Gmail" height="30" width="37" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools</h3>
